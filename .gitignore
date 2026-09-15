@@ -1,0 +1,13 @@
+node_modules/
+.env
+data/
+logs/
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+Thumbs.db
+coverage/
+.nyc_output/
+dist/
+*.log
